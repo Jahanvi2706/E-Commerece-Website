@@ -1,1 +1,1 @@
-# E-Commerece-Website
+An advanced and fully responsive e-commerce website built with modern web technologies. This project demonstrates a complete online shopping experience, including product listing, cart functionality, and order management.
